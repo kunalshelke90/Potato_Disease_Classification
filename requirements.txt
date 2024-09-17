@@ -4,4 +4,14 @@ seaborn
 pandas
 numpy
 ipykernel
+notebook
+tensorflow-addons
+tensorflow-model-optimization
+tensorflow==2.5
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.5.0
+split-folders
 -e .
